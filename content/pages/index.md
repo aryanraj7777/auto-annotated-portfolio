@@ -18,9 +18,16 @@ sections:
       technology and creativity. Python developer, web developer, graphics
       designer.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      As a versatile professional skilled in data analytics, Python development,
+      graphic design, and content writing, I
+
+      excel at deriving insights from data, developing innovative solutions,
+      creating visually compelling designs, and
+
+      crafting engaging narratives. My diverse expertise allows me to deliver
+      impactful results in dynamic and
+
+      collaborative environments.
     styles:
       self:
         height: auto
